@@ -1,4 +1,7 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Shopify_logo_2018.svg" alt="Shopify Logo" width="120"/>
+<img src="https://images.ctfassets.net/lzny33ho1g45/61WBBZHssamuSjx54wNeac/c55be71c546cef3c276d0a95526c7ac3/Shopify_hero.jpg?fm=jpg&q=31&fit=thumb&w=1520&h=460" alt="Shopify Logo" width="600"/>
+
+
+
 
 
 # 📊 Shopify Sales Analysis & Dashboard
